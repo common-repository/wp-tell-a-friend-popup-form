@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp tell a friend popup form\n"
+"POT-Creation-Date: 2016-03-26 16:19+0800\n"
+"PO-Revision-Date: 2016-03-26 16:19+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-tell-a-friend-popup-form.php:26
+#: ../wp-tell-a-friend-popup-form.php:253
+msgid "Close"
+msgstr "Zamknij"
+
+#: ../wp-tell-a-friend-popup-form.php:31
+#: ../wp-tell-a-friend-popup-form.php:258
+msgid "Your Name"
+msgstr "Nazwisko"
+
+#: ../wp-tell-a-friend-popup-form.php:35
+#: ../wp-tell-a-friend-popup-form.php:262
+msgid "Friend Email"
+msgstr "E-mail *"
+
+#: ../wp-tell-a-friend-popup-form.php:39
+#: ../wp-tell-a-friend-popup-form.php:266
+msgid "Enter Message To Friend"
+msgstr "Wprowadź tytuł dla swojej galerii."
+
+#: ../wp-tell-a-friend-popup-form.php:86
+#: ../wp-tell-a-friend-popup-form.php:203
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../wp-tell-a-friend-popup-form.php:87
+#: ../wp-tell-a-friend-popup-form.php:204
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../wp-tell-a-friend-popup-form.php:94 ../wp-tell-a-friend-popup-form.php:99
+msgid "Tell A Friend"
+msgstr "Powiedz przyjacielowi:"
+
+#: ../wp-tell-a-friend-popup-form.php:114
+msgid "Tell a friend popup form"
+msgstr "Powiadom znajomego formularza popup"
+
+#: ../wp-tell-a-friend-popup-form.php:148
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../wp-tell-a-friend-popup-form.php:152
+msgid "Plugin setting"
+msgstr "Ustawienia"
+
+#: ../wp-tell-a-friend-popup-form.php:155
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../wp-tell-a-friend-popup-form.php:156
+msgid "Enter your popup box title."
+msgstr "Wprowadź tytuł dla swojej galerii."
+
+#: ../wp-tell-a-friend-popup-form.php:158
+msgid "From email:"
+msgstr "Wpisz nazwę e-mail."
+
+#: ../wp-tell-a-friend-popup-form.php:159
+msgid "Enter From email address for your mail."
+msgstr "Proszę wprowadzić adres e-mail"
+
+#: ../wp-tell-a-friend-popup-form.php:161
+msgid "Admin email:"
+msgstr "Proszę wpisać temat wiadomości."
+
+#: ../wp-tell-a-friend-popup-form.php:163
+msgid "Enter admin email address to receive  Tell A Friend Mail copy."
+msgstr ""
+"Wpisz adres e-mail admina aby otrzymać kopię powiedzieć A przyjaciel poczty."
+
+#: ../wp-tell-a-friend-popup-form.php:165
+msgid "Email subject:"
+msgstr "Temat e-mail"
+
+#: ../wp-tell-a-friend-popup-form.php:167
+msgid "Enter mail subject."
+msgstr "Wprowadź temat wiadomości."
+
+#: ../wp-tell-a-friend-popup-form.php:169
+msgid "Link button/text:"
+msgstr "Przycisk/tekst linku:"
+
+#: ../wp-tell-a-friend-popup-form.php:171
+msgid ""
+"This box is to add the contact us Image or text, Entered value will display "
+"in the front end."
+msgstr ""
+"To pole jest aby dodać kontakt nam obraz lub tekst, wartość wpisu będą "
+"wyświetlane w przód."
+
+#: ../wp-tell-a-friend-popup-form.php:176
+msgid "Admin mail content:"
+msgstr "Admin zawartości poczty"
+
+#: ../wp-tell-a-friend-popup-form.php:177
+msgid "User mail content:"
+msgstr "Mail zarejestrowany użytkownik"
+
+#: ../wp-tell-a-friend-popup-form.php:186
+msgid "Security Check (Spam Stopper)"
+msgstr "Kontrola bezpieczeństwa (Spam korek)"
+
+#: ../wp-tell-a-friend-popup-form.php:187
+msgid "Home URL"
+msgstr "Adres URL strony startowej"
+
+#: ../wp-tell-a-friend-popup-form.php:189
+msgid ""
+"This home URL is for security check. We can submit the form only on this "
+"website. "
+msgstr ""
+"Ta strona URL jest do kontroli bezpieczeństwa. Możemy przesłać formularz "
+"tylko na tej stronie."
+
+#: ../wp-tell-a-friend-popup-form.php:192
+msgid "Update Setting"
+msgstr "Ustawienie automatycznej aktualizacji"
+
+#: ../wp-tell-a-friend-popup-form.php:193
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../wp-tell-a-friend-popup-form.php:196
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../wp-tell-a-friend-popup-form.php:198
+msgid "Drag and drop the plugin widget to your sidebar."
+msgstr "Przeciągnij i upuść do paska bocznego widget plugin."
+
+#: ../wp-tell-a-friend-popup-form.php:199
+msgid "Add plugin in the posts or pages using short code."
+msgstr "Dodaj plugin na stanowiskach lub stron za pomocą krótkiego kodu."
+
+#: ../wp-tell-a-friend-popup-form.php:200
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../wp-tell-a-friend-popup-form.php:213
+msgid "Tell A friend"
+msgstr "Powiedz przyjacielowi:"
+
+#~ msgid "Message sent successfully."
+#~ msgstr "Wiadomość wysłana"
+
+#~ msgid "There was a problem with the request."
+#~ msgstr "Wystąpił problem z prośbą."
+
+#~ msgid "Please enter your name and email."
+#~ msgstr "Proszę wpisać swoje imię i e-mail."
+
+#~ msgid "Tell a friend"
+#~ msgstr "Powiadom znajomego"
